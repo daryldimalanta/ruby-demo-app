@@ -2,7 +2,8 @@
 	"folders":
 	[
 		{
-			"path": "/home/daryl/workspace/test-projs/ruby-demo-app"
+			"path": "/home/daryl/workspace/test-projs/ruby-demo-app",
+			"folder_exclude_patterns": ["tmp"]
 		}
 	]
 }
